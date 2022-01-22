@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "899ad4075745dfc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6d0fd8e1d686411",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "python理论学习/高阶函数.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c6a42bf57bfae998",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a342e167aa102ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5bbc1e2572dc0a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "93c47bcc7d145c81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a561c3373425c39b",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd04b7c77c6d41cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d860576961f1c821",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python理论学习/高阶函数.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d6d0fd8e1d686411",
+  "lastOpenFiles": [
+    "python理论学习/高阶函数.md"
+  ]
+}
